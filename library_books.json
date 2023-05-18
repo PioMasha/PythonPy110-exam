@@ -1,0 +1,1595 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Дюна",
+            "year": 1894,
+            "pages": 762,
+            "isbn13": "978-0-421-50545-2",
+            "rating": 4.1,
+            "price": 487.1,
+            "author": [
+                "William Bennett",
+                "Amber Price",
+                "Joseph Mcdonald"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 2009,
+            "pages": 794,
+            "isbn13": "978-0-05-604668-9",
+            "rating": 2.63,
+            "price": 970.4,
+            "author": [
+                "Russell Moore"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "Дюна",
+            "year": 1986,
+            "pages": 473,
+            "isbn13": "978-1-221-31544-9",
+            "rating": 2.77,
+            "price": 337.5,
+            "author": [
+                "Chloe Garcia",
+                "Erika Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "Дюна",
+            "year": 1950,
+            "pages": 342,
+            "isbn13": "978-0-7782-3405-0",
+            "rating": 2.05,
+            "price": 1152.3,
+            "author": [
+                "Eugene Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1907,
+            "pages": 886,
+            "isbn13": "978-1-994594-92-8",
+            "rating": 3.02,
+            "price": 843.4,
+            "author": [
+                "Melanie Taylor",
+                "Shawn Ingram",
+                "Megan Reilly"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1867,
+            "pages": 1061,
+            "isbn13": "978-0-12-870382-3",
+            "rating": 0.77,
+            "price": 1052.4,
+            "author": [
+                "Christopher Ramirez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1851,
+            "pages": 411,
+            "isbn13": "978-0-13-747461-5",
+            "rating": 1.1,
+            "price": 939.0,
+            "author": [
+                "William Mcbride",
+                "Gina Lewis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "Дюна",
+            "year": 1964,
+            "pages": 1070,
+            "isbn13": "978-1-5255-6476-5",
+            "rating": 1.89,
+            "price": 1492.3,
+            "author": [
+                "Wesley Chan",
+                "Michael Lane"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1858,
+            "pages": 799,
+            "isbn13": "978-0-490-42497-5",
+            "rating": 1.61,
+            "price": 825.6,
+            "author": [
+                "Cynthia Carlson",
+                "Anthony Waller",
+                "Mary Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "Дюна",
+            "year": 1953,
+            "pages": 1043,
+            "isbn13": "978-1-940657-25-7",
+            "rating": 3.85,
+            "price": 1490.4,
+            "author": [
+                "Ashley Sellers MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1962,
+            "pages": 885,
+            "isbn13": "978-0-407-42238-4",
+            "rating": 3.84,
+            "price": 757.6,
+            "author": [
+                "William Flores",
+                "Allison Garcia",
+                "Sandy Hoffman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1866,
+            "pages": 904,
+            "isbn13": "978-1-68872-366-5",
+            "rating": 1.65,
+            "price": 656.5,
+            "author": [
+                "Jennifer White"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "Дюна",
+            "year": 1996,
+            "pages": 704,
+            "isbn13": "978-1-07-286311-3",
+            "rating": 3.86,
+            "price": 701.4,
+            "author": [
+                "Bradley Davis",
+                "Lisa Carter",
+                "Amy Dawson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1928,
+            "pages": 909,
+            "isbn13": "978-0-05-515864-2",
+            "rating": 4.41,
+            "price": 899.6,
+            "author": [
+                "Gregory Johnston",
+                "Benjamin Miller MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1828,
+            "pages": 352,
+            "isbn13": "978-0-920204-09-2",
+            "rating": 2.64,
+            "price": 408.0,
+            "author": [
+                "Miss Jennifer Flores DVM",
+                "Joshua Meyer",
+                "Jacob Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1974,
+            "pages": 448,
+            "isbn13": "978-0-418-80071-3",
+            "rating": 1.92,
+            "price": 746.7,
+            "author": [
+                "Jeffrey Bright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1865,
+            "pages": 836,
+            "isbn13": "978-1-356-77934-5",
+            "rating": 4.04,
+            "price": 631.2,
+            "author": [
+                "Jeremy Cross",
+                "Amy Wong",
+                "Heidi Roberts"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1944,
+            "pages": 1004,
+            "isbn13": "978-1-930234-13-0",
+            "rating": 1.34,
+            "price": 1145.1,
+            "author": [
+                "Eric Young DVM"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2004,
+            "pages": 248,
+            "isbn13": "978-0-18-629663-3",
+            "rating": 0.06,
+            "price": 315.2,
+            "author": [
+                "Amanda Mills"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1877,
+            "pages": 321,
+            "isbn13": "978-0-623-00947-5",
+            "rating": 1.7,
+            "price": 1075.9,
+            "author": [
+                "Sarah Owen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1881,
+            "pages": 448,
+            "isbn13": "978-0-07-015371-4",
+            "rating": 0.6,
+            "price": 1310.3,
+            "author": [
+                "Brenda Hill",
+                "Jennifer Weaver"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1931,
+            "pages": 268,
+            "isbn13": "978-0-15-585090-3",
+            "rating": 3.76,
+            "price": 816.9,
+            "author": [
+                "Carlos Jackson",
+                "Sean Hurley Jr.",
+                "Andrew Harmon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1866,
+            "pages": 661,
+            "isbn13": "978-0-00-558471-2",
+            "rating": 4.73,
+            "price": 1407.8,
+            "author": [
+                "Patricia Daniels"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1903,
+            "pages": 685,
+            "isbn13": "978-0-437-39943-4",
+            "rating": 2.55,
+            "price": 368.1,
+            "author": [
+                "Rachael Coleman",
+                "Mary Lawson",
+                "Lisa Roberts"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1914,
+            "pages": 969,
+            "isbn13": "978-0-515-03824-8",
+            "rating": 0.03,
+            "price": 949.8,
+            "author": [
+                "Tammy Allen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1936,
+            "pages": 732,
+            "isbn13": "978-0-687-50483-1",
+            "rating": 3.84,
+            "price": 634.0,
+            "author": [
+                "Rachel Cole",
+                "Rachael Hodges"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1926,
+            "pages": 217,
+            "isbn13": "978-0-249-69125-2",
+            "rating": 0.75,
+            "price": 931.5,
+            "author": [
+                "Elizabeth Sawyer",
+                "David Howe PhD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1895,
+            "pages": 296,
+            "isbn13": "978-0-687-36802-0",
+            "rating": 2.27,
+            "price": 1211.6,
+            "author": [
+                "Jacob Wilson",
+                "Nicole Shaffer",
+                "Michael Walker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1938,
+            "pages": 451,
+            "isbn13": "978-0-7722-6598-2",
+            "rating": 4.97,
+            "price": 973.5,
+            "author": [
+                "Crystal Brown MD",
+                "Linda Gutierrez",
+                "Michael Burton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "Дюна",
+            "year": 1828,
+            "pages": 787,
+            "isbn13": "978-1-282-92591-5",
+            "rating": 3.11,
+            "price": 724.1,
+            "author": [
+                "Michael Harvey",
+                "Jamie Guerrero",
+                "Karen Fisher"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1990,
+            "pages": 427,
+            "isbn13": "978-1-199-67445-6",
+            "rating": 2.2,
+            "price": 1107.1,
+            "author": [
+                "Patricia Mathis",
+                "David Smith II"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1910,
+            "pages": 691,
+            "isbn13": "978-1-313-13651-8",
+            "rating": 1.94,
+            "price": 1492.9,
+            "author": [
+                "Joseph Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "Дюна",
+            "year": 1921,
+            "pages": 1064,
+            "isbn13": "978-0-7843-3415-7",
+            "rating": 4.42,
+            "price": 1481.1,
+            "author": [
+                "Valerie Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1831,
+            "pages": 251,
+            "isbn13": "978-1-60442-965-7",
+            "rating": 0.88,
+            "price": 626.3,
+            "author": [
+                "Mackenzie Martinez MD",
+                "Mary Green"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1988,
+            "pages": 231,
+            "isbn13": "978-0-03-544455-0",
+            "rating": 2.45,
+            "price": 1375.9,
+            "author": [
+                "Thomas Carey",
+                "Cory Conner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1860,
+            "pages": 927,
+            "isbn13": "978-1-337-30328-6",
+            "rating": 2.57,
+            "price": 710.5,
+            "author": [
+                "Adam Garcia",
+                "Brian Irwin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1972,
+            "pages": 947,
+            "isbn13": "978-1-09-819295-2",
+            "rating": 4.28,
+            "price": 709.7,
+            "author": [
+                "Erika Reyes",
+                "Katelyn Nguyen",
+                "Jim Henderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "Дюна",
+            "year": 1835,
+            "pages": 761,
+            "isbn13": "978-1-72086-144-7",
+            "rating": 2.96,
+            "price": 493.8,
+            "author": [
+                "Amy Bennett",
+                "Eric Lee",
+                "Katherine Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1899,
+            "pages": 869,
+            "isbn13": "978-0-398-36401-4",
+            "rating": 4.03,
+            "price": 733.7,
+            "author": [
+                "Sean Jackson",
+                "Renee Hubbard",
+                "Jessica Garrett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "Дюна",
+            "year": 1966,
+            "pages": 259,
+            "isbn13": "978-1-75474-532-4",
+            "rating": 2.94,
+            "price": 1491.4,
+            "author": [
+                "Chad Johnson",
+                "Sharon Hood"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1960,
+            "pages": 851,
+            "isbn13": "978-1-213-96997-1",
+            "rating": 4.27,
+            "price": 968.7,
+            "author": [
+                "Debra Copeland"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1899,
+            "pages": 808,
+            "isbn13": "978-0-9559704-7-4",
+            "rating": 3.34,
+            "price": 808.1,
+            "author": [
+                "Crystal Lyons"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1856,
+            "pages": 325,
+            "isbn13": "978-0-263-75054-6",
+            "rating": 4.0,
+            "price": 732.3,
+            "author": [
+                "Sandra Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1858,
+            "pages": 1076,
+            "isbn13": "978-1-78057-031-0",
+            "rating": 1.36,
+            "price": 833.5,
+            "author": [
+                "Jesse Mitchell",
+                "Brandy Harris DVM",
+                "Julie Abbott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1874,
+            "pages": 884,
+            "isbn13": "978-0-347-36936-7",
+            "rating": 1.81,
+            "price": 1121.4,
+            "author": [
+                "Daniel Becker PhD",
+                "Carlos Smith",
+                "Abigail Baker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1911,
+            "pages": 568,
+            "isbn13": "978-1-78745-955-7",
+            "rating": 1.28,
+            "price": 536.2,
+            "author": [
+                "Amy Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1912,
+            "pages": 1002,
+            "isbn13": "978-0-19-753858-6",
+            "rating": 0.92,
+            "price": 441.7,
+            "author": [
+                "Matthew Francis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "Дюна",
+            "year": 1944,
+            "pages": 1059,
+            "isbn13": "978-0-608-47800-5",
+            "rating": 4.5,
+            "price": 903.2,
+            "author": [
+                "Jessica Thornton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "Дюна",
+            "year": 2009,
+            "pages": 414,
+            "isbn13": "978-0-912457-53-6",
+            "rating": 1.48,
+            "price": 1370.9,
+            "author": [
+                "Jenna Stewart",
+                "Sharon Cameron",
+                "Veronica Cruz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1840,
+            "pages": 985,
+            "isbn13": "978-0-420-09751-4",
+            "rating": 3.19,
+            "price": 944.7,
+            "author": [
+                "Carl Rogers",
+                "Robert Martin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1859,
+            "pages": 738,
+            "isbn13": "978-0-7603-8562-3",
+            "rating": 2.41,
+            "price": 1181.0,
+            "author": [
+                "Lonnie Chan",
+                "Ariana Pittman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 2005,
+            "pages": 1077,
+            "isbn13": "978-1-390-88899-7",
+            "rating": 3.05,
+            "price": 1268.5,
+            "author": [
+                "Laura Mann",
+                "Amber Frye"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1925,
+            "pages": 1033,
+            "isbn13": "978-0-87410-619-0",
+            "rating": 1.65,
+            "price": 424.9,
+            "author": [
+                "Mr. Jason Smith",
+                "Glenn Short DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 2004,
+            "pages": 640,
+            "isbn13": "978-0-317-97277-1",
+            "rating": 0.87,
+            "price": 496.8,
+            "author": [
+                "Tanya Allison",
+                "Michael Cardenas",
+                "Melissa Dean"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1935,
+            "pages": 437,
+            "isbn13": "978-0-641-95333-0",
+            "rating": 2.23,
+            "price": 586.4,
+            "author": [
+                "Cheryl Montgomery"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1954,
+            "pages": 391,
+            "isbn13": "978-1-03-368780-2",
+            "rating": 2.55,
+            "price": 764.1,
+            "author": [
+                "Felicia Johnson",
+                "Matthew Doyle",
+                "Joanna Wright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1830,
+            "pages": 500,
+            "isbn13": "978-1-375-12865-0",
+            "rating": 1.24,
+            "price": 951.0,
+            "author": [
+                "Amy Stewart"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1831,
+            "pages": 371,
+            "isbn13": "978-0-667-80995-6",
+            "rating": 4.51,
+            "price": 1470.3,
+            "author": [
+                "Mitchell Arnold",
+                "April Irwin",
+                "Holly Diaz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1933,
+            "pages": 670,
+            "isbn13": "978-0-7774-3553-3",
+            "rating": 3.49,
+            "price": 339.3,
+            "author": [
+                "Heather Chapman",
+                "Krystal Booker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1847,
+            "pages": 1093,
+            "isbn13": "978-1-68532-524-4",
+            "rating": 0.07,
+            "price": 1117.8,
+            "author": [
+                "Robert Carroll",
+                "Sheryl Thornton",
+                "Lindsay Chen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "Дюна",
+            "year": 1944,
+            "pages": 339,
+            "isbn13": "978-0-10-003566-9",
+            "rating": 3.34,
+            "price": 489.8,
+            "author": [
+                "David Hale"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1942,
+            "pages": 411,
+            "isbn13": "978-1-114-36522-3",
+            "rating": 0.44,
+            "price": 346.3,
+            "author": [
+                "Brittany Tate"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1845,
+            "pages": 950,
+            "isbn13": "978-0-612-25889-1",
+            "rating": 1.55,
+            "price": 516.2,
+            "author": [
+                "Christina Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Дюна",
+            "year": 1886,
+            "pages": 842,
+            "isbn13": "978-0-85638-979-5",
+            "rating": 3.51,
+            "price": 452.8,
+            "author": [
+                "Wayne Peterson",
+                "Kyle Wilkinson",
+                "David Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1970,
+            "pages": 1089,
+            "isbn13": "978-1-01-016700-6",
+            "rating": 4.64,
+            "price": 1018.8,
+            "author": [
+                "Mackenzie Johnson",
+                "Christopher Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "Дюна",
+            "year": 1955,
+            "pages": 614,
+            "isbn13": "978-1-01-284230-7",
+            "rating": 4.06,
+            "price": 1320.6,
+            "author": [
+                "Amy Tran",
+                "Diane Burns",
+                "Jason Mcdaniel"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Дюна",
+            "year": 1986,
+            "pages": 975,
+            "isbn13": "978-1-263-84733-5",
+            "rating": 1.33,
+            "price": 754.5,
+            "author": [
+                "Ellen Robinson",
+                "Joel Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1872,
+            "pages": 292,
+            "isbn13": "978-1-4053-2230-0",
+            "rating": 2.33,
+            "price": 1258.6,
+            "author": [
+                "Spencer Fox",
+                "Kevin Robinson",
+                "William Hoffman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1903,
+            "pages": 1050,
+            "isbn13": "978-1-63530-966-9",
+            "rating": 3.01,
+            "price": 356.1,
+            "author": [
+                "James Davidson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "Дюна",
+            "year": 1862,
+            "pages": 206,
+            "isbn13": "978-1-310-77333-4",
+            "rating": 1.76,
+            "price": 848.5,
+            "author": [
+                "Rebecca Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1923,
+            "pages": 432,
+            "isbn13": "978-1-72480-974-2",
+            "rating": 1.95,
+            "price": 896.7,
+            "author": [
+                "Gary Aguirre",
+                "Tammy Edwards",
+                "Ricky Harmon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1827,
+            "pages": 495,
+            "isbn13": "978-1-878761-76-7",
+            "rating": 3.31,
+            "price": 1221.7,
+            "author": [
+                "John Flores",
+                "Amanda Kelley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1931,
+            "pages": 1047,
+            "isbn13": "978-0-534-21306-0",
+            "rating": 1.61,
+            "price": 1499.6,
+            "author": [
+                "Steven Griffin",
+                "Anna Perez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1994,
+            "pages": 977,
+            "isbn13": "978-0-391-11706-8",
+            "rating": 0.52,
+            "price": 914.1,
+            "author": [
+                "Kristine Brown",
+                "Gregory Coleman",
+                "Francisco Baker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1982,
+            "pages": 936,
+            "isbn13": "978-0-312-09574-1",
+            "rating": 4.16,
+            "price": 497.6,
+            "author": [
+                "Lisa Wagner",
+                "Mary Johnson",
+                "John White"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1987,
+            "pages": 634,
+            "isbn13": "978-0-7134-2679-3",
+            "rating": 2.21,
+            "price": 1075.1,
+            "author": [
+                "Joseph Kim",
+                "Lisa Spencer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1939,
+            "pages": 266,
+            "isbn13": "978-1-85977-974-3",
+            "rating": 2.18,
+            "price": 1387.1,
+            "author": [
+                "Katherine Cannon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "Дюна",
+            "year": 1931,
+            "pages": 515,
+            "isbn13": "978-0-443-17245-8",
+            "rating": 1.36,
+            "price": 788.5,
+            "author": [
+                "Kenneth Stone",
+                "David Fisher"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2002,
+            "pages": 769,
+            "isbn13": "978-1-63703-968-7",
+            "rating": 0.31,
+            "price": 853.1,
+            "author": [
+                "Bethany Roman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1951,
+            "pages": 816,
+            "isbn13": "978-1-04-036938-8",
+            "rating": 0.9,
+            "price": 1062.5,
+            "author": [
+                "Emma Frye",
+                "Haley Weaver",
+                "Christina Walker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1966,
+            "pages": 362,
+            "isbn13": "978-0-616-50786-5",
+            "rating": 0.39,
+            "price": 417.0,
+            "author": [
+                "Alexis Jenkins",
+                "Olivia Nelson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1840,
+            "pages": 996,
+            "isbn13": "978-1-86699-732-1",
+            "rating": 1.69,
+            "price": 678.0,
+            "author": [
+                "Dylan Bowen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1974,
+            "pages": 338,
+            "isbn13": "978-0-7055-5847-1",
+            "rating": 1.69,
+            "price": 632.0,
+            "author": [
+                "Nicole Schmitt",
+                "Jerry Jordan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1863,
+            "pages": 1051,
+            "isbn13": "978-0-316-97207-9",
+            "rating": 1.36,
+            "price": 1128.9,
+            "author": [
+                "Jonathan Hill"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "Дюна",
+            "year": 1999,
+            "pages": 659,
+            "isbn13": "978-1-996557-74-7",
+            "rating": 3.1,
+            "price": 808.8,
+            "author": [
+                "Joshua Lee",
+                "Sarah Bowen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "Дюна",
+            "year": 1996,
+            "pages": 1004,
+            "isbn13": "978-1-61119-540-8",
+            "rating": 0.41,
+            "price": 781.8,
+            "author": [
+                "Adrian Allen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1968,
+            "pages": 787,
+            "isbn13": "978-0-7874-3221-8",
+            "rating": 3.1,
+            "price": 442.3,
+            "author": [
+                "Mary Kim"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1961,
+            "pages": 1083,
+            "isbn13": "978-0-495-56113-2",
+            "rating": 3.03,
+            "price": 450.3,
+            "author": [
+                "Christopher Smith",
+                "Christopher Melton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1840,
+            "pages": 841,
+            "isbn13": "978-0-7493-4800-7",
+            "rating": 4.67,
+            "price": 725.3,
+            "author": [
+                "Lori Glover"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1829,
+            "pages": 464,
+            "isbn13": "978-0-15-686654-5",
+            "rating": 1.78,
+            "price": 1222.8,
+            "author": [
+                "Denise Taylor",
+                "Linda Palmer",
+                "Benjamin Page"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "Дюна",
+            "year": 1971,
+            "pages": 598,
+            "isbn13": "978-0-422-98641-0",
+            "rating": 4.27,
+            "price": 308.8,
+            "author": [
+                "Michael Perez",
+                "Danielle Williams",
+                "Ronald Allen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 1850,
+            "pages": 232,
+            "isbn13": "978-0-352-78097-3",
+            "rating": 4.1,
+            "price": 535.7,
+            "author": [
+                "Cindy Schultz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1900,
+            "pages": 457,
+            "isbn13": "978-1-892789-70-9",
+            "rating": 3.12,
+            "price": 381.1,
+            "author": [
+                "Danielle Kelly",
+                "Edward Kelley",
+                "Mitchell Martinez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "Дюна",
+            "year": 1993,
+            "pages": 516,
+            "isbn13": "978-1-196-23707-4",
+            "rating": 1.39,
+            "price": 1395.2,
+            "author": [
+                "Judy Tate"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "Дюна",
+            "year": 1971,
+            "pages": 795,
+            "isbn13": "978-0-7237-6978-1",
+            "rating": 1.79,
+            "price": 1198.8,
+            "author": [
+                "Michael Fleming"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Дюна",
+            "year": 1966,
+            "pages": 252,
+            "isbn13": "978-0-612-17486-3",
+            "rating": 0.55,
+            "price": 503.6,
+            "author": [
+                "Miranda Andrade",
+                "Travis Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "Анна Каренина",
+            "year": 1866,
+            "pages": 970,
+            "isbn13": "978-0-532-37809-9",
+            "rating": 0.77,
+            "price": 641.0,
+            "author": [
+                "Brittany Armstrong"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1962,
+            "pages": 486,
+            "isbn13": "978-1-109-73061-6",
+            "rating": 4.33,
+            "price": 673.6,
+            "author": [
+                "David Lewis",
+                "Anita Olson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "Королевский убийца",
+            "year": 1903,
+            "pages": 239,
+            "isbn13": "978-0-681-97801-0",
+            "rating": 4.76,
+            "price": 1227.4,
+            "author": [
+                "Jessica Kaufman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "Ведьмак",
+            "year": 1902,
+            "pages": 1074,
+            "isbn13": "978-1-279-81874-9",
+            "rating": 3.21,
+            "price": 1205.5,
+            "author": [
+                "Jeffrey Mason"
+            ]
+        }
+    }
+]
