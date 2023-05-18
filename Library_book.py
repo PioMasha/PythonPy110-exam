@@ -69,20 +69,23 @@ def get_book() -> dict:
     Функция генерирует словарь с информацией о книге
     :return: словарь с заполненными данными из пред. функций
     """
-    book = {
-        "model": MODEL,
-        "pk": None,
-        "fields": {
-            "title": get_title(),
-            "year": get_year(),
-            "pages": get_pages(),
-            "isbn13": get_isbn13(),
-            "rating": get_rating(),
-            "price": get_price(),
-            "author": get_author()
+    pk = 1
+    while True:
+        book = {
+            "model": MODEL,
+            "pk": pk,
+            "fields": {
+                "title": get_title(),
+                "year": get_year(),
+                "pages": get_pages(),
+                "isbn13": get_isbn13(),
+                "rating": get_rating(),
+                "price": get_price(),
+                "author": get_author()
+            }
         }
-    }
-    return book
+        yield book
+        pk += 1
 
 
 def get_books(count_books: int, pk_start: int = 1) -> list[dict]:
@@ -92,11 +95,13 @@ def get_books(count_books: int, pk_start: int = 1) -> list[dict]:
     :param pk_start: целое число, определяющее начало отсчета
     :return: список книг в виде словаря
     """
+    book_generator = get_book()
     books = []
-    for i in range(pk_start, pk_start + count_books):
-        book = get_book()
-        book["pk"] = i
+    for _ in range(count_books):
+        book = next(book_generator)
+        book["pk"] = pk_start
         books.append(book)
+        pk_start += 1
     return books
 
 
@@ -113,14 +118,15 @@ def write_to_json(books: list[dict], filename: str):
 
 def main():
     """
-    Функция-генератор формирует список книг из словарей и записывает его в JSON
+    Функция формирует список книг из словарей и записывает его в JSON
     :return: возвращает текст
     """
     count_books = 100
     books = get_books(count_books)
     write_to_json(books, "library_books.json")
-    yield f"{count_books} произведений сгенерированы и записаны в файл library_books.json"
+    return f"{count_books} произведений сгенерированы и записаны в файл library_books.json"
 
 
 if __name__ == "__main__":
     main()
+
